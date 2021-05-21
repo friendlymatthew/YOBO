@@ -1,0 +1,5 @@
+classes=1
+train=darknet/custom_data/train.txt
+valid=darknet/custom_data/test.txt
+names=darknet/custom_data/custom.names
+backup=darknet/backup/
