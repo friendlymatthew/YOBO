@@ -1,0 +1,67 @@
+Enter Image Path: custom_data/images/frame132.jpg: Predicted in 0.912671 seconds.
+Aang: 71%
+Enter Image Path: custom_data/images/frame133.jpg: Predicted in 0.852387 seconds.
+Aang: 99%
+Enter Image Path: custom_data/images/frame134.jpg: Predicted in 0.850144 seconds.
+Aang: 99%
+Enter Image Path: custom_data/images/frame135.jpg: Predicted in 0.842758 seconds.
+Aang: 93%
+Enter Image Path: custom_data/images/frame136.jpg: Predicted in 0.903699 seconds.
+Aang: 89%
+Enter Image Path: custom_data/images/frame137.jpg: Predicted in 0.898385 seconds.
+Aang: 99%
+Enter Image Path: custom_data/images/frame138.jpg: Predicted in 1.049976 seconds.
+Aang: 89%
+Enter Image Path: custom_data/images/frame139.jpg: Predicted in 0.942682 seconds.
+Aang: 95%
+Enter Image Path: custom_data/images/frame140.jpg: Predicted in 0.923348 seconds.
+Aang: 97%
+Enter Image Path: custom_data/images/frame141.jpg: Predicted in 0.900571 seconds.
+Enter Image Path: custom_data/images/frame142.jpg: Predicted in 1.099083 seconds.
+Enter Image Path: custom_data/images/frame143.jpg: Predicted in 2.262923 seconds.
+Aang: 98%
+Enter Image Path: custom_data/images/frame144.jpg: Predicted in 1.141817 seconds.
+Aang: 100%
+Enter Image Path: custom_data/images/frame145.jpg: Predicted in 1.658699 seconds.
+Aang: 77%
+Enter Image Path: custom_data/images/frame146.jpg: Predicted in 1.037249 seconds.
+Aang: 92%
+Enter Image Path: custom_data/images/frame147.jpg: Predicted in 0.878870 seconds.
+Aang: 99%
+Enter Image Path: custom_data/images/frame148.jpg: Predicted in 0.902062 seconds.
+Aang: 64%
+Enter Image Path: custom_data/images/frame149.jpg: Predicted in 0.908890 seconds.
+Aang: 65%
+Enter Image Path: custom_data/images/frame150.jpg: Predicted in 1.048782 seconds.
+Aang: 100%
+Enter Image Path: custom_data/images/frame151.jpg: Predicted in 1.058523 seconds.
+Aang: 100%
+Enter Image Path: custom_data/images/frame152.jpg: Predicted in 1.160042 seconds.
+Aang: 100%
+Enter Image Path: custom_data/images/frame153.jpg: Predicted in 0.820873 seconds.
+Aang: 100%
+Enter Image Path: custom_data/images/frame154.jpg: Predicted in 2.041327 seconds.
+Aang: 100%
+Enter Image Path: custom_data/images/frame155.jpg: Predicted in 1.386994 seconds.
+Aang: 75%
+Enter Image Path: custom_data/images/frame156.jpg: Predicted in 1.081636 seconds.
+Aang: 100%
+Enter Image Path: custom_data/images/frame157.jpg: Predicted in 2.104418 seconds.
+Aang: 99%
+Enter Image Path: custom_data/images/frame158.jpg: Predicted in 1.007391 seconds.
+Aang: 99%
+Enter Image Path: custom_data/images/frame159.jpg: Predicted in 0.952093 seconds.
+Aang: 100%
+Enter Image Path: custom_data/images/frame160.jpg: Predicted in 0.800184 seconds.
+Aang: 98%
+Enter Image Path: custom_data/images/frame161.jpg: Predicted in 0.887437 seconds.
+Aang: 68%
+Enter Image Path: custom_data/images/frame162.jpg: Predicted in 2.136086 seconds.
+Aang: 96%
+Enter Image Path: custom_data/images/frame163.jpg: Predicted in 1.630113 seconds.
+Aang: 89%
+Enter Image Path: custom_data/images/frame164.jpg: Predicted in 1.483637 seconds.
+Aang: 100%
+Enter Image Path: custom_data/images/frame165.jpg: Predicted in 1.791938 seconds.
+Aang: 100%
+Enter Image Path: 
